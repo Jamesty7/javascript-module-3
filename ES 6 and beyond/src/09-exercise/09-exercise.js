@@ -18,6 +18,8 @@ function exercise09() {
         ["Friday"],
     ];
     return days.flat();
+}
 
 // Don’t change the code bellow this line
 export default exercise09;
+

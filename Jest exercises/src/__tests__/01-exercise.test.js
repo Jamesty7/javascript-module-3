@@ -10,5 +10,8 @@ describe("01-exercise", () => {
     expect.assertions(1);
 
     // Finish the test
+    const result = add(2, 4)
+    expect(result).toBe(6)
+
   });
 });
